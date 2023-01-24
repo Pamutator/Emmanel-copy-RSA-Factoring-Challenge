@@ -1,2 +1,1 @@
-# RSA-Factoring-Challenge
-This is RSA-Factoring Challenge
+Pamutator RSA-Factoring Challenge
